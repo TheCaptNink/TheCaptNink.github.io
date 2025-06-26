@@ -1,0 +1,146 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+@font-face 
+{
+	font-family: 'DwarvenAxe BB W00 Regular';
+	src: url(../Fonts/DwarvenAxe BB W00 Regular.ttf);
+}
+
+body
+{
+	font-size: 12pt;
+	text-decoration: none;
+	font-family: 'Arial Narrow';
+	color: #000000;
+	background-color: #ffffff;
+}
+
+h1
+{
+	font-weight: bold;
+	font-family: DwarvenAxeBBW00-Regular;
+	font-size: 26pt;
+	color: #ffffff;
+	background-color: #a52a2a;
+	padding-left: 10px;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	font-family: DwarvenAxeBBW00-Regular;
+	color: #b22222;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+	font-family: 'Arial Narrow';
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 24pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+body.blank
+{
+	background-color: #ffffff;
+}
+
+li
+{
+	margin-bottom: 12pt;
+	margin-top: 6pt;
+}
+
+MadCap|xref
+{
+	color: #a52a2a;
+}
+
+ol
+{
+	margin-bottom: 30pt;
+}
+
+body.welcome
+{
+	font-size: 12pt;
+	text-decoration: none;
+	font-family: 'Arial Narrow';
+	color: #000000;
+	background-color: #000000;
+}
+
+p.redtext
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 24pt;
+	color: #a52a2a;
+}
+

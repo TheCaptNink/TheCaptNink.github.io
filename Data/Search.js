@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Diseases_Effects.htm'],s:['1'],p:[['1',4]]});
